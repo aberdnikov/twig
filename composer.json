@@ -19,8 +19,8 @@
         },
         {
             "name": "Armin Ronacher",
-            "email": "armin.ronacher@active-4.com",
-            "role": "Project Founder"
+            "role": "Project Founder",
+            "email": "armin.ronacher@active-4.com"
         }
     ],
     "support": {
